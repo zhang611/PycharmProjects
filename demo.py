@@ -8,4 +8,5 @@ print(s[1:6:2])     # 指定步长
 print(s[::-1])
 print(s[::-1])
 print("333")
+print("hotfix添加")
 print("4444")
